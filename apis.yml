@@ -1,0 +1,85 @@
+aid: qiming
+name: Qiming Venture Partners
+description: >-
+  Qiming Venture Partners is a leading China-based venture capital firm founded in 2006 by Duane Kuang
+  and Gary Rieschel, headquartered in Shanghai with additional offices in Beijing, Suzhou, Hong Kong,
+  Singapore, and a U.S. affiliate (Qiming Venture Partners USA) in Seattle, Washington. The firm invests
+  at the early and growth stages, with roughly 70% of its investments concentrated in Series A and Series B
+  rounds, across two core practice areas: Technology (mobile internet, consumer, AI, robotics,
+  semiconductors, enterprise software, autonomous driving) and Healthcare (biotech, pharmaceuticals,
+  medical devices, diagnostics, and digital health). Qiming manages 11 U.S. Dollar funds and 7 RMB funds
+  with approximately $9.5 billion in capital raised, and has backed more than 580 companies, of which over
+  210 have exited via IPO on the NYSE, NASDAQ, HKEX, Shanghai, or Shenzhen exchanges, or through M&A. It is
+  an early backer of some of China's most influential technology companies, including Xiaomi, Meituan,
+  Bilibili, Zhihu, Roborock, Hesai Technology, UBTech, WeRide, Insta360, and Zhipu AI (Z.ai), alongside a
+  deep healthcare portfolio spanning Zai Lab, Gan & Lee Pharmaceuticals, CanSino Biologics, Tigermed, and
+  Insilico Medicine.
+image: https://www.qimingvc.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Series B
+  - Growth Equity
+  - Technology
+  - Healthcare
+  - Artificial Intelligence
+  - Semiconductors
+  - Robotics
+  - Biotech
+  - China
+  - Asia
+apis: []
+common:
+  - type: Website
+    url: https://www.qimingvc.com/en
+  - type: Portfolio
+    url: https://www.qimingvc.com/en/portfolio
+  - type: Portfolio
+    url: portfolio/qiming-portfolio.yml
+  - type: Team
+    url: https://www.qimingvc.com/en/team
+  - type: Team
+    url: team/qiming-team.yml
+  - type: InvestmentThesis
+    url: https://www.qimingvc.com/en/about
+  - type: News
+    url: https://www.qimingvc.com/en/newsroom
+  - type: Jobs
+    url: https://www.qimingvc.com/en/careers
+  - type: Pitch
+    url: mailto:BP@qimingvc.com
+  - type: Contact
+    url: mailto:contactus@qimingvc.com
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/qiming-venture-partners
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/qiming-venture-partners
+  - type: Twitter
+    url: https://twitter.com/QimingVC
+  - type: Features
+    data:
+      - "Stage: Early and growth stage; ~70% in Series A / Series B"
+      - "Sectors: Technology (mobile internet, consumer, AI, robotics, semiconductors, enterprise software, autonomous driving) and Healthcare (biotech, pharmaceuticals, medical devices, diagnostics, digital health)"
+      - "Geography: Greater China, with a U.S. affiliate in Seattle"
+      - "Capital raised: ~$9.5B across 11 USD funds and 7 RMB funds"
+      - "Portfolio: 580+ companies, 210+ IPO exits"
+      - "Founded: 2006"
+      - "HQ: Shanghai, China (offices in Beijing, Suzhou, Hong Kong, Singapore, Seattle)"
+    sources:
+      - https://www.qimingvc.com/en/about
+      - https://en.wikipedia.org/wiki/Qiming_Venture_Partners
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Qiming Venture Partners
+    url: https://www.qimingvc.com/en
