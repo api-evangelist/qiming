@@ -3,1184 +3,1351 @@ method: searched
 source: https://www.qimingvc.com/en/portfolio
 summary:
   portfolio_total: 375
-  in_network: 6
-  api_providers: 4
-  missing: 369
+  in_network: 375
+  api_providers: 13
+  missing: 0
   stubs_created: 0
 companies:
 - name: 1yongcloud
   url: https://1yongcloud.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 1yongcloud
+  slug: 1yongcloud
+  matched_by: domain
 - name: 2duche
   url: https://2duche.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 2duche
+  slug: 2duche
+  matched_by: domain
 - name: 52TOYS
   url: https://52toys.com
   sector: consumer
   status: active
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 52toys
+  slug: 52toys
+  matched_by: domain
 - name: 7k7k
   url: https://7k7k.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 7k7k
+  slug: 7k7k
+  matched_by: domain
 - name: abbisko
   url: https://abbisko.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abbisko
+  slug: abbisko
+  matched_by: domain
 - name: abcfintech
   url: https://abcfintech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abcfintech
+  slug: abcfintech
+  matched_by: domain
 - name: abogenbio
   url: https://abogenbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abogenbio
+  slug: abogenbio
+  matched_by: domain
 - name: abupdate
   url: https://abupdate.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abupdate
+  slug: abupdate
+  matched_by: domain
 - name: aceabio
   url: https://aceabio.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aceabio
+  slug: aceabio
+  matched_by: domain
 - name: aceatherapeutics
   url: https://aceatherapeutics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aceatherapeutics
+  slug: aceatherapeutics
+  matched_by: domain
 - name: acxel
   url: https://acxel.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: acxel
+  slug: acxel
+  matched_by: domain
 - name: aeonmed
   url: https://aeonmed.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aeonmed
+  slug: aeonmed
+  matched_by: domain
 - name: afujingyou
   url: https://afujingyou.net.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: afujingyou
+  slug: afujingyou
+  matched_by: domain
 - name: ai-prime
   url: https://ai-prime.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ai-prime
+  slug: ai-prime
+  matched_by: domain
 - name: airquality
   url: https://airquality.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: airquality
+  slug: airquality
+  matched_by: domain
 - name: aistarfish
   url: https://aistarfish.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aistarfish
+  slug: aistarfish
+  matched_by: domain
 - name: akulaku
   url: https://akulaku.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: akulaku
+  slug: akulaku
+  matched_by: domain
 - name: alamarbio
   url: https://alamarbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alamarbio
+  slug: alamarbio
+  matched_by: domain
 - name: alltechmed
   url: https://alltechmed.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alltechmed
+  slug: alltechmed
+  matched_by: domain
 - name: alphabiopharma
   url: https://alphabiopharma.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alphabiopharma
+  slug: alphabiopharma
+  matched_by: name-slug
 - name: antengene
   url: https://antengene.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: antengene
+  slug: antengene
+  matched_by: domain
 - name: anxinyisheng
   url: https://anxinyisheng.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: anxinyisheng
+  slug: anxinyisheng
+  matched_by: domain
 - name: aohua
   url: https://aohua.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aohua
+  slug: aohua
+  matched_by: domain
 - name: oceg
   url: https://oceg.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oceg
+  slug: oceg
+  matched_by: domain
 - name: apollomicsinc
   url: https://apollomicsinc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apollomicsinc
+  slug: apollomicsinc
+  matched_by: domain
 - name: appconomy
   url: https://appconomy.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: appconomy
+  slug: appconomy
+  matched_by: domain
 - name: aptmed
   url: https://aptmed.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aptmed
+  slug: aptmed
+  matched_by: domain
 - name: apusapps
   url: https://apusapps.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apusapps
+  slug: apusapps
+  matched_by: domain
 - name: arkbiosciences
   url: https://arkbiosciences.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arkbiosciences
+  slug: arkbiosciences
+  matched_by: name-slug
 - name: arrailgroup
   url: https://arrailgroup.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arrailgroup
+  slug: arrailgroup
+  matched_by: domain
 - name: asieris
   url: https://asieris.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: asieris
+  slug: asieris
+  matched_by: domain
 - name: atantares
   url: https://atantares.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atantares
+  slug: atantares
+  matched_by: domain
 - name: atom-semiconductor
   url: https://atom-semiconductor.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atom-semiconductor
+  slug: atom-semiconductor
+  matched_by: domain
 - name: cn
   url: https://cn.ausperbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cn
+  slug: cn
+  matched_by: domain
 - name: axera-tech
   url: https://axera-tech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: axera-tech
+  slug: axera-tech
+  matched_by: domain
 - name: zjbanger
   url: https://zjbanger.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zjbanger
+  slug: zjbanger
+  matched_by: domain
 - name: kaiheikeji
   url: https://kaiheikeji.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kaiheikeji
+  slug: kaiheikeji
+  matched_by: domain
 - name: baoyugame
   url: https://baoyugame.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: baoyugame
+  slug: baoyugame
+  matched_by: domain
 - name: bayomics
   url: https://bayomics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bayomics
+  slug: bayomics
+  matched_by: domain
 - name: bbi-lifesciences
   url: https://bbi-lifesciences.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bbi-lifesciences
+  slug: bbi-lifesciences
+  matched_by: domain
 - name: berrygenomics
   url: https://berrygenomics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: berrygenomics
+  slug: berrygenomics
+  matched_by: domain
 - name: besunyen
   url: https://besunyen.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: besunyen
+  slug: besunyen
+  matched_by: domain
 - name: Bilibili
   url: https://bilibili.com
   sector: media-entertainment
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bilibili
+  slug: bilibili
+  matched_by: domain
 - name: inbilin
   url: https://inbilin.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inbilin
+  slug: inbilin
+  matched_by: domain
 - name: biolink
   url: https://biolink.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: biolink
+  slug: biolink
+  matched_by: domain
 - name: miwuyy
   url: https://miwuyy.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: miwuyy
+  slug: miwuyy
+  matched_by: domain
 - name: bioscience-tj
   url: https://bioscience-tj.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bioscience-tj
+  slug: bioscience-tj
+  matched_by: domain
 - name: biotree
   url: https://biotree.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: biotree
+  slug: biotree
+  matched_by: domain
 - name: bioyond
   url: https://bioyond.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bioyond
+  slug: bioyond
+  matched_by: domain
 - name: xiaoniaokuaiyan
   url: https://xiaoniaokuaiyan.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xiaoniaokuaiyan
+  slug: xiaoniaokuaiyan
+  matched_by: domain
 - name: birentech
   url: https://birentech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: birentech
+  slug: birentech
+  matched_by: domain
 - name: black-unique
   url: https://black-unique.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: black-unique
+  slug: black-unique
+  matched_by: domain
 - name: blockvision
   url: https://blockvision.org
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blockvision
+  slug: blockvision
+  matched_by: domain
 - name: chinabsc
   url: https://chinabsc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chinabsc
+  slug: chinabsc
+  matched_by: name-slug
 - name: bomming
   url: https://bomming.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bomming
+  slug: bomming
+  matched_by: domain
 - name: bondent
   url: https://bondent.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bondent
+  slug: bondent
+  matched_by: domain
 - name: bouffalolab
   url: https://bouffalolab.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bouffalolab
+  slug: bouffalolab
+  matched_by: domain
 - name: broncus
   url: https://broncus.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: broncus
+  slug: broncus
+  matched_by: domain
 - name: btrchina
   url: https://btrchina.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: btrchina
+  slug: btrchina
+  matched_by: domain
 - name: budcreate
   url: https://budcreate.xyz
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: budcreate
+  slug: budcreate
+  matched_by: domain
 - name: dmedglobal
   url: https://dmedglobal.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dmedglobal
+  slug: dmedglobal
+  matched_by: domain
 - name: caimitech
   url: https://caimitech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: caimitech
+  slug: caimitech
+  matched_by: domain
 - name: canbridgepharma
   url: https://canbridgepharma.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: canbridgepharma
+  slug: canbridgepharma
+  matched_by: domain
 - name: cansinotech
   url: https://cansinotech.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cansinotech
+  slug: cansinotech
+  matched_by: domain
 - name: cashbus
   url: https://cashbus.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cashbus
+  slug: cashbus
+  matched_by: domain
 - name: castboxapp
   url: https://castboxapp.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: castboxapp
+  slug: castboxapp
+  matched_by: name-slug
 - name: cehome
   url: https://cehome.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cehome
+  slug: cehome
+  matched_by: domain
 - name: cencorp
   url: https://cencorp.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cencorp
+  slug: cencorp
+  matched_by: domain
 - name: centreherbs
   url: https://centreherbs.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: centreherbs
+  slug: centreherbs
+  matched_by: domain
 - name: ceta
   url: https://ceta.cc
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ceta
+  slug: ceta
+  matched_by: domain
 - name: chaitin
   url: https://chaitin.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: chaitin
+  in_network: true
+  is_api_provider: true
+  slug: chaitin
+  matched_by: domain
 - name: hyperz
   url: https://hyperz.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hyperz
+  slug: hyperz
+  matched_by: name-slug
 - name: chatail
   url: https://chatail.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chatail
+  slug: chatail
+  matched_by: domain
 - name: chinacache
   url: https://chinacache.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chinacache
+  slug: chinacache
+  matched_by: name-slug
 - name: chuhang
   url: https://chuhang.tech
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chuhang
+  slug: chuhang
+  matched_by: domain
 - name: chumanapp
   url: https://chumanapp.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chumanapp
+  slug: chumanapp
+  matched_by: domain
 - name: citic-pharm
   url: https://citic-pharm.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: citic-pharm
+  slug: citic-pharm
+  matched_by: domain
 - name: cixtech
   url: https://cixtech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cixtech
+  slug: cixtech
+  matched_by: domain
 - name: clinflash
   url: https://clinflash.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clinflash
+  slug: clinflash
+  matched_by: name-slug
 - name: clounix
   url: https://clounix.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clounix
+  slug: clounix
+  matched_by: domain
 - name: clubfactory
   url: https://clubfactory.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clubfactory
+  slug: clubfactory
+  matched_by: domain
 - name: cmlabs
   url: https://cmlabs.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cmlabs
+  slug: cmlabs
+  matched_by: domain
 - name: colandpharma
   url: https://colandpharma.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: colandpharma
+  slug: colandpharma
+  matched_by: domain
 - name: completeomics
   url: https://completeomics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: completeomics
+  slug: completeomics
+  matched_by: domain
 - name: connectbiopharm
   url: https://connectbiopharm.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: connectbiopharm
+  slug: connectbiopharm
+  matched_by: name-slug
 - name: contentbox
   url: https://contentbox.one
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: contentbox
+  slug: contentbox
+  matched_by: domain
 - name: convenientpower
   url: https://convenientpower.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: convenientpower
+  slug: convenientpower
+  matched_by: domain
 - name: coohua
   url: https://coohua.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coohua
+  slug: coohua
+  matched_by: domain
 - name: coolcollege
   url: https://coolcollege.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coolcollege
+  in_network: true
+  is_api_provider: true
+  slug: coolcollege
+  matched_by: domain
 - name: chubao
   url: https://chubao.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chubao
+  slug: chubao
+  matched_by: domain
 - name: coremed
   url: https://coremed.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: coremed
+  slug: coremed
+  matched_by: domain
 - name: crownbio
   url: https://crownbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crownbio
+  slug: crownbio
+  matched_by: domain
 - name: zchb-water
   url: https://zchb-water.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zchb-water
+  slug: zchb-water
+  matched_by: domain
 - name: csr-biotech
   url: https://csr-biotech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: csr-biotech
+  slug: csr-biotech
+  matched_by: domain
 - name: cubenergy
   url: https://cubenergy.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cubenergy
+  slug: cubenergy
+  matched_by: name-slug
 - name: curegenetics
   url: https://curegenetics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: curegenetics
+  slug: curegenetics
+  matched_by: domain
 - name: cygia
   url: https://cygia.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cygia
+  slug: cygia
+  matched_by: domain
 - name: dajiabao
   url: https://dajiabao.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dajiabao
+  slug: dajiabao
+  matched_by: domain
 - name: deepway
   url: https://deepway.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: deepway
+  slug: deepway
+  matched_by: domain
 - name: desano
   url: https://desano.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: desano
+  slug: desano
+  matched_by: domain
 - name: dezhentech
   url: https://dezhentech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dezhentech
+  slug: dezhentech
+  matched_by: domain
 - name: t
   url: https://t.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: t
+  slug: t
+  matched_by: domain
 - name: xiaomishu
   url: https://xiaomishu.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xiaomishu
+  slug: xiaomishu
+  matched_by: domain
 - name: dkmedtech
   url: https://dkmedtech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dkmedtech
+  slug: dkmedtech
+  matched_by: domain
 - name: medicaldl
   url: https://medicaldl.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medicaldl
+  slug: medicaldl
+  matched_by: domain
 - name: docin
   url: https://docin.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: docin
+  slug: docin
+  matched_by: domain
 - name: domob
   url: https://domob.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: domob
+  slug: domob
+  matched_by: domain
 - name: d
   url: https://d.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: d
+  slug: d
+  matched_by: domain
 - name: dp
   url: https://dp.tech
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: dp
+  in_network: true
+  is_api_provider: true
+  slug: dp
+  matched_by: domain
 - name: clearorthod
   url: https://clearorthod.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clearorthod
+  slug: clearorthod
+  matched_by: domain
 - name: 1hai
   url: https://1hai.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 1hai
+  slug: 1hai
+  matched_by: domain
 - name: eigentech
   url: https://eigentech.ai
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eigentech
+  slug: eigentech
+  matched_by: domain
 - name: eigencomm
   url: https://eigencomm.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eigencomm
+  slug: eigencomm
+  matched_by: domain
 - name: emergen
   url: https://emergen.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: emergen
+  slug: emergen
+  matched_by: domain
 - name: dinovamedtech
   url: https://dinovamedtech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dinovamedtech
+  slug: dinovamedtech
+  matched_by: domain
 - name: ethealthcare
   url: https://ethealthcare.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ethealthcare
+  slug: ethealthcare
+  matched_by: domain
 - name: fangtek
   url: https://fangtek.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fangtek
+  slug: fangtek
+  matched_by: domain
 - name: fanli
   url: https://fanli.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fanli
+  slug: fanli
+  matched_by: domain
 - name: fimi
   url: https://fimi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fimi
+  slug: fimi
+  matched_by: domain
 - name: zhaosuliao
   url: https://zhaosuliao.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zhaosuliao
+  slug: zhaosuliao
+  matched_by: domain
 - name: finern
   url: https://finern.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: finern
+  slug: finern
+  matched_by: domain
 - name: firstgrid
   url: https://firstgrid.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: firstgrid
+  slug: firstgrid
+  matched_by: domain
 - name: forgame
   url: https://forgame.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: forgame
+  slug: forgame
+  matched_by: domain
 - name: china-fif
   url: https://china-fif.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: china-fif
+  slug: china-fif
+  matched_by: domain
 - name: zhaohu365
   url: https://zhaohu365.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zhaohu365
+  slug: zhaohu365
+  matched_by: domain
 - name: frontagelab
   url: https://frontagelab.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: frontagelab
+  slug: frontagelab
+  matched_by: name-slug
 - name: frontis
   url: https://frontis.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: frontis
+  slug: frontis
+  matched_by: domain
 - name: fxiaoke
   url: https://fxiaoke.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fxiaoke
+  slug: fxiaoke
+  matched_by: domain
 - name: jsgaiya
   url: https://jsgaiya.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jsgaiya
+  slug: jsgaiya
+  matched_by: domain
 - name: galbot
   url: https://galbot.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: galbot
+  slug: galbot
+  matched_by: domain
 - name: gammastar
   url: https://gammastar.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gammastar
+  slug: gammastar
+  matched_by: domain
 - name: Gan & Lee Pharmaceuticals
   url: https://ganlee.com
   sector: pharmaceuticals
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gan-and-lee-pharmaceuticals
+  slug: gan-and-lee-pharmaceuticals
+  matched_by: domain
 - name: gaugene
   url: https://gaugene.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gaugene
+  slug: gaugene
+  matched_by: domain
 - name: geneditbio
   url: https://geneditbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: geneditbio
+  slug: geneditbio
+  matched_by: domain
 - name: changeducation
   url: https://changeducation.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: changeducation
+  slug: changeducation
+  matched_by: domain
 - name: glightmed
   url: https://glightmed.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: glightmed
+  slug: glightmed
+  matched_by: domain
 - name: genorbio
   url: https://genorbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: genorbio
+  slug: genorbio
+  matched_by: domain
 - name: gohoo
   url: https://gohoo.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gohoo
+  slug: gohoo
+  matched_by: domain
 - name: bjgoodwill
   url: https://bjgoodwill.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bjgoodwill
+  slug: bjgoodwill
+  matched_by: domain
 - name: guokang
   url: https://guokang.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guokang
+  slug: guokang
+  matched_by: domain
 - name: gyenno
   url: https://gyenno.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gyenno
+  slug: gyenno
+  matched_by: domain
 - name: hanqigroup
   url: https://hanqigroup.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hanqigroup
+  slug: hanqigroup
+  matched_by: domain
 - name: zhixiaole
   url: https://zhixiaole.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zhixiaole
+  slug: zhixiaole
+  matched_by: domain
 - name: hashquark
   url: https://hashquark.io
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hashquark
+  slug: hashquark
+  matched_by: name-slug
 - name: healthgenetech
   url: https://healthgenetech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: healthgenetech
+  slug: healthgenetech
+  matched_by: domain
 - name: Hesai Technology
   url: https://hesaitech.com
   sector: autonomous-driving
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hesai-technology
+  slug: hesai-technology
+  matched_by: domain
 - name: hxgroup
   url: https://hxgroup.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hxgroup
+  slug: hxgroup
+  matched_by: name-slug
 - name: honess
   url: https://honess.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: honess
+  slug: honess
+  matched_by: domain
 - name: hortorgames
   url: https://hortorgames.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hortorgames
+  slug: hortorgames
+  matched_by: domain
 - name: cdhot
   url: https://cdhot.cc
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cdhot
+  slug: cdhot
+  matched_by: domain
 - name: houmo
   url: https://houmo.ai
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: houmo
+  slug: houmo
+  matched_by: name-slug
 - name: 61draw
   url: https://61draw.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 61draw
+  slug: 61draw
+  matched_by: domain
 - name: hugemed
   url: https://hugemed.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hugemed
+  slug: hugemed
+  matched_by: domain
 - name: huimei
   url: https://huimei.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: huimei
+  slug: huimei
+  matched_by: domain
 - name: hypereal
   url: https://hypereal.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hypereal
+  slug: hypereal
+  matched_by: domain
 - name: hyperstrong
   url: https://hyperstrong.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hyperstrong
+  slug: hyperstrong
+  matched_by: name-slug
 - name: iceonline
   url: https://iceonline.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iceonline
+  slug: iceonline
+  matched_by: domain
 - name: idsmanager
   url: https://idsmanager.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: idsmanager
+  slug: idsmanager
+  matched_by: domain
 - name: imile
   url: https://imile.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: imile
+  slug: imile
+  matched_by: domain
 - name: token
   url: https://token.im
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: token
+  slug: token
+  matched_by: name-slug
 - name: infly
   url: https://infly.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: infly
+  slug: infly
+  matched_by: domain
 - name: infervision
   url: https://infervision.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: infervision
+  slug: infervision
+  matched_by: domain
 - name: docs
   url: https://docs.infini-ai.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: docs
+  slug: docs
+  matched_by: domain
 - name: infstones
   url: https://infstones.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: infstones
+  in_network: true
+  is_api_provider: true
+  slug: infstones
+  matched_by: domain
 - name: innostic
   url: https://innostic.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: innostic
+  slug: innostic
+  matched_by: domain
 - name: inscinstech
   url: https://inscinstech.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inscinstech
+  slug: inscinstech
+  matched_by: domain
 - name: insight-med
   url: https://insight-med.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: insight-med
+  slug: insight-med
+  matched_by: domain
 - name: Insilico Medicine
   url: https://insilico.com
   sector: ai-drug-discovery
@@ -1195,746 +1362,852 @@ companies:
   sector: consumer-electronics
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: insta360
+  slug: insta360
+  matched_by: domain
 - name: inventisbio
   url: https://inventisbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inventisbio
+  slug: inventisbio
+  matched_by: domain
 - name: tutorabc
   url: https://tutorabc.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tutorabc
+  slug: tutorabc
+  matched_by: name-slug
 - name: jacobiopharma
   url: https://jacobiopharma.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jacobiopharma
+  slug: jacobiopharma
+  matched_by: domain
 - name: jfkbio
   url: https://jfkbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jfkbio
+  slug: jfkbio
+  matched_by: domain
 - name: jhtcm
   url: https://jhtcm.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jhtcm
+  slug: jhtcm
+  matched_by: domain
 - name: jiayuan
   url: https://jiayuan.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jiayuan
+  slug: jiayuan
+  matched_by: domain
 - name: jcxj
   url: https://jcxj.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jcxj
+  slug: jcxj
+  matched_by: domain
 - name: joesfuturefood
   url: https://joesfuturefood.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: joesfuturefood
+  slug: joesfuturefood
+  matched_by: domain
 - name: juren
   url: https://juren.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: juren
+  slug: juren
+  matched_by: domain
 - name: justmedical
   url: https://justmedical.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: justmedical
+  slug: justmedical
+  matched_by: domain
 - name: kaixin001
   url: https://kaixin001.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kaixin001
+  slug: kaixin001
+  matched_by: domain
 - name: koalareading
   url: https://koalareading.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: koalareading
+  slug: koalareading
+  matched_by: domain
 - name: chushou
   url: https://chushou.tv
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chushou
+  slug: chushou
+  matched_by: domain
 - name: kechowpharma
   url: https://kechowpharma.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kechowpharma
+  slug: kechowpharma
+  matched_by: domain
 - name: keysino
   url: https://keysino.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: keysino
+  slug: keysino
+  matched_by: domain
 - name: kingsware
   url: https://kingsware.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kingsware
+  slug: kingsware
+  matched_by: domain
 - name: jinkongauto
   url: https://jinkongauto.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jinkongauto
+  slug: jinkongauto
+  matched_by: domain
 - name: kintep
   url: https://kintep.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kintep
+  slug: kintep
+  matched_by: domain
 - name: kktv5
   url: https://kktv5.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kktv5
+  slug: kktv5
+  matched_by: domain
 - name: lagou
   url: https://lagou.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lagou
+  slug: lagou
+  matched_by: domain
 - name: liesheng
   url: https://liesheng.cc
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liesheng
+  slug: liesheng
+  matched_by: domain
 - name: lanzatech
   url: https://lanzatech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: lanzatech
+  in_network: true
+  is_api_provider: true
+  slug: lanzatech
+  matched_by: domain
 - name: leapstack
   url: https://leapstack.tech
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: leapstack
+  slug: leapstack
+  matched_by: domain
 - name: letel
   url: https://letel.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: letel
+  slug: letel
+  matched_by: domain
 - name: liangyihui
   url: https://liangyihui.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liangyihui
+  slug: liangyihui
+  matched_by: domain
 - name: lih-invest
   url: https://lih-invest.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lih-invest
+  slug: lih-invest
+  matched_by: domain
 - name: longbio
   url: https://longbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: longbio
+  slug: longbio
+  matched_by: domain
 - name: longwill
   url: https://longwill.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: longwill
+  slug: longwill
+  matched_by: domain
 - name: lpamina
   url: https://lpamina.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lpamina
+  slug: lpamina
+  matched_by: domain
 - name: ltztherapeutics
   url: https://ltztherapeutics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ltztherapeutics
+  slug: ltztherapeutics
+  matched_by: domain
 - name: igetget
   url: https://igetget.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: igetget
+  slug: igetget
+  matched_by: domain
 - name: luotianyi
   url: https://luotianyi.org
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: luotianyi
+  slug: luotianyi
+  matched_by: domain
 - name: lupuamc
   url: https://lupuamc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lupuamc
+  slug: lupuamc
+  matched_by: domain
 - name: m20genomics
   url: https://m20genomics.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: m20genomics
+  slug: m20genomics
+  matched_by: domain
 - name: mafengwo
   url: https://mafengwo.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mafengwo
+  slug: mafengwo
+  matched_by: domain
 - name: corp
   url: https://corp.b2b.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: corp
+  slug: corp
+  matched_by: domain
 - name: marvel-tech
   url: https://marvel-tech.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marvel-tech
+  slug: marvel-tech
+  matched_by: domain
 - name: matrixport
   url: https://matrixport.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: matrixport
+  in_network: true
+  is_api_provider: true
+  slug: matrixport
+  matched_by: name-slug
 - name: matwings
   url: https://matwings.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: matwings
+  slug: matwings
+  matched_by: domain
 - name: mech-mind
   url: https://mech-mind.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mech-mind
+  slug: mech-mind
+  matched_by: domain
 - name: medmotion
   url: https://medmotion.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medmotion
+  slug: medmotion
+  matched_by: domain
 - name: medsci
   url: https://medsci.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medsci
+  slug: medsci
+  matched_by: domain
 - name: medxtmc
   url: https://medxtmc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medxtmc
+  slug: medxtmc
+  matched_by: name-slug
 - name: meetfuture
   url: https://meetfuture.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: meetfuture
+  slug: meetfuture
+  matched_by: name-slug
 - name: meitu
   url: https://meitu.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: meitu
+  slug: meitu
+  matched_by: domain
 - name: Meituan
   url: https://meituan.com
   sector: consumer-internet
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: meituan
+  slug: meituan
+  matched_by: domain
 - name: miaoshou
   url: https://miaoshou.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: miaoshou
+  slug: miaoshou
+  matched_by: domain
 - name: cutt
   url: https://cutt.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cutt
+  slug: cutt
+  matched_by: domain
 - name: micropointbio
   url: https://micropointbio.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: micropointbio
+  slug: micropointbio
+  matched_by: domain
 - name: microtechmd
   url: https://microtechmd.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: microtechmd
+  slug: microtechmd
+  matched_by: domain
 - name: mitralign
   url: https://mitralign.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mitralign
+  slug: mitralign
+  matched_by: domain
 - name: iqi-inc
   url: https://iqi-inc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iqi-inc
+  slug: iqi-inc
+  matched_by: domain
 - name: mk-semi
   url: https://mk-semi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mk-semi
+  slug: mk-semi
+  matched_by: domain
 - name: mobike
   url: https://mobike.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mobike
+  slug: mobike
+  matched_by: domain
 - name: mogujie
   url: https://mogujie.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mogujie
+  slug: mogujie
+  matched_by: domain
 - name: moodytiger
   url: https://moodytiger.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moodytiger
+  slug: moodytiger
+  matched_by: domain
 - name: moretickets
   url: https://moretickets.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moretickets
+  slug: moretickets
+  matched_by: domain
 - name: morewis
   url: https://morewis.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: morewis
+  slug: morewis
+  matched_by: domain
 - name: mucho
   url: https://mucho.asia
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mucho
+  slug: mucho
+  matched_by: domain
 - name: muttoinc
   url: https://muttoinc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: muttoinc
+  slug: muttoinc
+  matched_by: domain
 - name: nasn-auto
   url: https://nasn-auto.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nasn-auto
+  slug: nasn-auto
+  matched_by: domain
 - name: neiwai
   url: https://neiwai.heidianer.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neiwai
+  slug: neiwai
+  matched_by: domain
 - name: novamab
   url: https://novamab.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novamab
+  slug: novamab
+  matched_by: domain
 - name: novast
   url: https://novast.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novast
+  slug: novast
+  matched_by: name-slug
 - name: novoprotein
   url: https://novoprotein.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: novoprotein
+  slug: novoprotein
+  matched_by: domain
 - name: nvxclouds
   url: https://nvxclouds.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nvxclouds
+  slug: nvxclouds
+  matched_by: domain
 - name: nurien
   url: https://nurien.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nurien
+  slug: nurien
+  matched_by: domain
 - name: nurotron
   url: https://nurotron.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nurotron
+  slug: nurotron
+  matched_by: domain
 - name: one-chip
   url: https://one-chip.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: one-chip
+  slug: one-chip
+  matched_by: domain
 - name: oneapm
   url: https://oneapm.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oneapm
+  slug: oneapm
+  matched_by: domain
 - name: oneasp
   url: https://oneasp.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oneasp
+  slug: oneasp
+  matched_by: domain
 - name: oricell
   url: https://oricell.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oricell
+  slug: oricell
+  matched_by: domain
 - name: origene
   url: https://origene.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: origene
+  slug: origene
+  matched_by: domain
 - name: pelliot
   url: https://pelliot.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pelliot
+  slug: pelliot
+  matched_by: domain
 - name: petkit
   url: https://petkit.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: petkit
+  slug: petkit
+  matched_by: domain
 - name: photoncrystal
   url: https://photoncrystal.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: photoncrystal
+  slug: photoncrystal
+  matched_by: domain
 - name: shsongli
   url: https://shsongli.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shsongli
+  slug: shsongli
+  matched_by: domain
 - name: aplum
   url: https://aplum.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aplum
+  slug: aplum
+  matched_by: domain
 - name: pluslife
   url: https://pluslife.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pluslife
+  slug: pluslife
+  matched_by: domain
 - name: zincfive
   url: https://zincfive.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zincfive
+  slug: zincfive
+  matched_by: domain
 - name: pps
   url: https://pps.tv
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pps
+  slug: pps
+  matched_by: domain
 - name: pratilipi
   url: https://pratilipi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pratilipi
+  slug: pratilipi
+  matched_by: domain
 - name: prcxi
   url: https://prcxi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prcxi
+  slug: prcxi
+  matched_by: domain
 - name: primelifescience
   url: https://primelifescience.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: primelifescience
+  slug: primelifescience
+  matched_by: domain
 - name: prismlab
   url: https://prismlab.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prismlab
+  slug: prismlab
+  matched_by: domain
 - name: prmeasure
   url: https://prmeasure.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prmeasure
+  slug: prmeasure
+  matched_by: domain
 - name: qiangsenmedical
   url: https://qiangsenmedical.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qiangsenmedical
+  slug: qiangsenmedical
+  matched_by: domain
 - name: qingflow
   url: https://qingflow.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qingflow
+  slug: qingflow
+  matched_by: domain
 - name: qiniu
   url: https://qiniu.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qiniu
+  slug: qiniu
+  matched_by: domain
 - name: ypxfood
   url: https://ypxfood.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ypxfood
+  slug: ypxfood
+  matched_by: domain
 - name: liangzizhige
   url: https://liangzizhige.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liangzizhige
+  slug: liangzizhige
+  matched_by: domain
 - name: quickpic
   url: https://quickpic.co.za
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quickpic
+  slug: quickpic
+  matched_by: domain
 - name: reetian
   url: https://reetian.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reetian
+  slug: reetian
+  matched_by: name-slug
 - name: reddoorz
   url: https://reddoorz.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reddoorz
+  slug: reddoorz
+  matched_by: domain
 - name: ivder
   url: https://ivder.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ivder
+  slug: ivder
+  matched_by: domain
 - name: rdbio
   url: https://rdbio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rdbio
+  slug: rdbio
+  matched_by: domain
 - name: rensenergy
   url: https://rensenergy.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rensenergy
+  slug: rensenergy
+  matched_by: domain
 - name: china-richen
   url: https://china-richen.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: china-richen
+  slug: china-richen
+  matched_by: domain
 - name: Roborock
   url: https://roborock.com
   sector: robotics
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: roborock
+  slug: roborock
+  matched_by: domain
 - name: roxmotor
   url: https://roxmotor.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: roxmotor
+  slug: roxmotor
+  matched_by: domain
 - name: ruhnn
   url: https://ruhnn.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ruhnn
+  slug: ruhnn
+  matched_by: domain
 - name: snssurgical
   url: https://snssurgical.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: snssurgical
+  slug: snssurgical
+  matched_by: domain
 - name: sanegenebio
   url: https://sanegenebio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sanegenebio
+  slug: sanegenebio
+  matched_by: domain
 - name: sanyoumed
   url: https://sanyoumed.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sanyoumed
+  slug: sanyoumed
+  matched_by: domain
 - name: sceneray
   url: https://sceneray.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sceneray
+  slug: sceneray
+  matched_by: domain
 - name: Schrödinger
   url: https://schrodinger.com
   sector: healthcare-software
@@ -1948,269 +2221,307 @@ companies:
   url: https://sequoiadb.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sequoiadb
+  slug: sequoiadb
+  matched_by: domain
 - name: sgeet
   url: https://sgeet.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sgeet
+  slug: sgeet
+  matched_by: domain
 - name: sh-eco
   url: https://sh-eco.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sh-eco
+  slug: sh-eco
+  matched_by: domain
 - name: shanzhen
   url: https://shanzhen.me
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shanzhen
+  slug: shanzhen
+  matched_by: domain
 - name: shenogen
   url: https://shenogen.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shenogen
+  slug: shenogen
+  matched_by: domain
 - name: dstzc
   url: https://dstzc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dstzc
+  slug: dstzc
+  matched_by: name-slug
 - name: shiyunji
   url: https://shiyunji.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shiyunji
+  slug: shiyunji
+  matched_by: domain
 - name: xiudan
   url: https://xiudan.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xiudan
+  slug: xiudan
+  matched_by: domain
 - name: shukun
   url: https://shukun.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shukun
+  slug: shukun
+  matched_by: domain
 - name: shulanhealth
   url: https://shulanhealth.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shulanhealth
+  slug: shulanhealth
+  matched_by: domain
 - name: sieredu
   url: https://sieredu.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sieredu
+  slug: sieredu
+  matched_by: domain
 - name: singularmedical
   url: https://singularmedical.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: singularmedical
+  slug: singularmedical
+  matched_by: domain
 - name: sinobiological
   url: https://sinobiological.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sinobiological
+  slug: sinobiological
+  matched_by: domain
 - name: sinomdt
   url: https://sinomdt.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sinomdt
+  slug: sinomdt
+  matched_by: domain
 - name: sinocelltech
   url: https://sinocelltech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sinocelltech
+  slug: sinocelltech
+  matched_by: domain
 - name: sinotau
   url: https://sinotau.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sinotau
+  slug: sinotau
+  matched_by: domain
 - name: suh
   url: https://suh.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: suh
+  slug: suh
+  matched_by: domain
 - name: sinovision-tech
   url: https://sinovision-tech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sinovision-tech
+  slug: sinovision-tech
+  matched_by: domain
 - name: vongihealth
   url: https://vongihealth.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vongihealth
+  slug: vongihealth
+  matched_by: domain
 - name: beva
   url: https://beva.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beva
+  slug: beva
+  matched_by: domain
 - name: tpmedical
   url: https://tpmedical.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tpmedical
+  slug: tpmedical
+  matched_by: domain
 - name: speschina
   url: https://speschina.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: speschina
+  slug: speschina
+  matched_by: domain
 - name: StepFun
   url: https://stepfun.com
   sector: ai
   status: active
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stepfun
+  slug: stepfun
+  matched_by: domain
 - name: sunnydental
   url: https://sunnydental.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sunnydental
+  slug: sunnydental
+  matched_by: domain
 - name: sunyur
   url: https://sunyur.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sunyur
+  slug: sunyur
+  matched_by: domain
 - name: supermag
   url: https://supermag.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: supermag
+  slug: supermag
+  matched_by: domain
 - name: swap
   url: https://swap.id
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: swap
+  slug: swap
+  matched_by: name-slug
 - name: sweetome
   url: https://sweetome.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sweetome
+  slug: sweetome
+  matched_by: domain
 - name: synapsor
   url: https://synapsor.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: synapsor
+  slug: synapsor
+  matched_by: domain
 - name: t4game
   url: https://t4game.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: t4game
+  slug: t4game
+  matched_by: domain
 - name: cdthchem
   url: https://cdthchem.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cdthchem
+  slug: cdthchem
+  matched_by: domain
 - name: tandemai
   url: https://tandemai.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tandemai
+  slug: tandemai
+  matched_by: domain
 - name: '61'
   url: https://61.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: '61'
+  slug: '61'
+  matched_by: domain
 - name: tasogare
   url: https://tasogare.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tasogare
+  slug: tasogare
+  matched_by: domain
 - name: tellgen
   url: https://tellgen.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tellgen
+  slug: tellgen
+  matched_by: domain
 - name: thinktrans
   url: https://thinktrans.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thinktrans
+  slug: thinktrans
+  matched_by: domain
 - name: thorough
   url: https://thorough.ai
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thorough
+  slug: thorough
+  matched_by: domain
 - name: itiangua
   url: https://itiangua.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: itiangua
+  slug: itiangua
+  matched_by: domain
 - name: tigergraph
   url: https://tigergraph.com
   status: unknown
@@ -2223,165 +2534,188 @@ companies:
   url: https://tigermed.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tigermed
+  slug: tigermed
+  matched_by: name-slug
 - name: tingsn
   url: https://tingsn.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tingsn
+  slug: tingsn
+  matched_by: domain
 - name: tisenc
   url: https://tisenc.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tisenc
+  slug: tisenc
+  matched_by: domain
 - name: tongdun
   url: https://tongdun.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tongdun
+  slug: tongdun
+  matched_by: domain
 - name: tongzhuogame
   url: https://tongzhuogame.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tongzhuogame
+  slug: tongzhuogame
+  matched_by: domain
 - name: transwarp
   url: https://transwarp.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: transwarp
+  slug: transwarp
+  matched_by: domain
 - name: tripod-glp
   url: https://tripod-glp.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tripod-glp
+  slug: tripod-glp
+  matched_by: name-slug
 - name: trytrytw
   url: https://trytrytw.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trytrytw
+  slug: trytrytw
+  matched_by: domain
 - name: tuhu
   url: https://tuhu.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tuhu
+  slug: tuhu
+  matched_by: domain
 - name: tujia
   url: https://tujia.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tujia
+  slug: tujia
+  matched_by: domain
 - name: tungee
   url: https://tungee.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tungee
+  slug: tungee
+  matched_by: domain
 - name: UBTech
   url: https://ubtrobot.com
   sector: robotics
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: ubtech
+  in_network: true
+  is_api_provider: true
+  slug: ubtech
+  matched_by: domain
 - name: Unisound
   url: https://unisound.com
   sector: ai
   status: active
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unisound
+  slug: unisound
+  matched_by: domain
 - name: vlightv
   url: https://vlightv.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vlightv
+  slug: vlightv
+  matched_by: domain
 - name: vancl
   url: https://vancl.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vancl
+  slug: vancl
+  matched_by: domain
 - name: veer
   url: https://veer.tv
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: veer
+  slug: veer
+  matched_by: domain
 - name: venusmedtech
   url: https://venusmedtech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: venusmedtech
+  slug: venusmedtech
+  matched_by: domain
 - name: yunyinggu
   url: https://yunyinggu.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yunyinggu
+  slug: yunyinggu
+  matched_by: name-slug
 - name: vinno
   url: https://vinno.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vinno
+  slug: vinno
+  matched_by: domain
 - name: wx-visionpro
   url: https://wx-visionpro.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wx-visionpro
+  slug: wx-visionpro
+  matched_by: domain
 - name: vistel
   url: https://vistel.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vistel
+  slug: vistel
+  matched_by: domain
 - name: vrmedical
   url: https://vrmedical.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vrmedical
+  slug: vrmedical
+  matched_by: domain
 - name: wacai
   url: https://wacai.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wacai
+  slug: wacai
+  matched_by: domain
 - name: game
   url: https://game.xiaomi.com
   status: unknown
@@ -2394,244 +2728,277 @@ companies:
   url: https://guahao.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: guahao
+  slug: guahao
+  matched_by: domain
 - name: webcomicsapp
   url: https://webcomicsapp.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: webcomicsapp
+  slug: webcomicsapp
+  matched_by: domain
 - name: haoyiku
   url: https://haoyiku.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: haoyiku
+  slug: haoyiku
+  matched_by: domain
 - name: wecare-bio
   url: https://wecare-bio.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wecare-bio
+  slug: wecare-bio
+  matched_by: domain
 - name: WeRide
   url: https://weride.ai
   sector: autonomous-driving
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: weride
+  slug: weride
+  matched_by: domain
 - name: ilovewoof
   url: https://ilovewoof.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ilovewoof
+  slug: ilovewoof
+  matched_by: domain
 - name: wowjoy
   url: https://wowjoy.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wowjoy
+  slug: wowjoy
+  matched_by: domain
 - name: woxiaoya
   url: https://woxiaoya.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: woxiaoya
+  slug: woxiaoya
+  matched_by: domain
 - name: xellsmart
   url: https://xellsmart.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xellsmart
+  slug: xellsmart
+  matched_by: domain
 - name: xbonline
   url: https://xbonline.net
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xbonline
+  slug: xbonline
+  matched_by: domain
 - name: sem
   url: https://sem.xiaoe-tech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sem
+  slug: sem
+  matched_by: domain
 - name: xiaoman
   url: https://xiaoman.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: xiaoman
+  in_network: true
+  is_api_provider: true
+  slug: xiaoman
+  matched_by: domain
 - name: mi
   url: https://mi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  slug: xiaomi
+  slug: aplum
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: xy51
   url: https://xy51.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xy51
+  slug: xy51
+  matched_by: domain
 - name: shinehe
   url: https://shinehe.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shinehe
+  slug: shinehe
+  matched_by: domain
 - name: xsky
   url: https://xsky.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: xsky
+  in_network: true
+  is_api_provider: true
+  slug: xsky
+  matched_by: domain
 - name: yanyin
   url: https://yanyin.tech
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yanyin
+  slug: yanyin
+  matched_by: domain
 - name: kuwo
   url: https://kuwo.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kuwo
+  slug: kuwo
+  matched_by: domain
 - name: yesmro
   url: https://yesmro.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yesmro
+  slug: yesmro
+  matched_by: domain
 - name: xiaoyi
   url: https://xiaoyi.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xiaoyi
+  slug: xiaoyi
+  matched_by: domain
 - name: immune-path
   url: https://immune-path.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: immune-path
+  slug: immune-path
+  matched_by: domain
 - name: ylhyoil
   url: https://ylhyoil.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ylhyoil
+  slug: ylhyoil
+  matched_by: domain
 - name: yoaa
   url: https://yoaa.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yoaa
+  slug: yoaa
+  matched_by: domain
 - name: yuanbaobaoxian
   url: https://yuanbaobaoxian.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yuanbaobaoxian
+  slug: yuanbaobaoxian
+  matched_by: domain
 - name: beijingyuanxin
   url: https://beijingyuanxin.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beijingyuanxin
+  slug: beijingyuanxin
+  matched_by: domain
 - name: yuanxinjituan
   url: https://yuanxinjituan.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yuanxinjituan
+  slug: yuanxinjituan
+  matched_by: domain
 - name: yunjichina
   url: https://yunjichina.com.cn
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yunjichina
+  slug: yunjichina
+  matched_by: domain
 - name: yunqi
   url: https://yunqi.tech
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yunqi
+  slug: yunqi
+  matched_by: domain
 - name: Zai Lab
   url: https://zailaboratory.com
   sector: biotech
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zai-lab
+  slug: zai-lab
+  matched_by: domain
 - name: zd-med
   url: https://zd-med.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zd-med
+  slug: zd-med
+  matched_by: domain
 - name: zeenhealth
   url: https://zeenhealth.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zeenhealth
+  slug: zeenhealth
+  matched_by: domain
 - name: zego
   url: https://zego.im
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zego
+  in_network: true
+  is_api_provider: true
+  slug: zego
+  matched_by: name-slug
 - name: zgbiotech
   url: https://zgbiotech.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zgbiotech
+  slug: zgbiotech
+  matched_by: domain
 - name: Zhihu
   url: https://zhihu.com
   sector: media-entertainment
   status: ipo
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zhihu
+  slug: zhihu
+  matched_by: domain
 - name: Z.ai (Zhipu AI)
   url: https://zhipuai.cn
   sector: ai
@@ -2645,13 +3012,15 @@ companies:
   url: https://zuoshouyisheng.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zuoshouyisheng
+  slug: zuoshouyisheng
+  matched_by: domain
 - name: zuzuche
   url: https://zuzuche.com
   status: unknown
   source: https://www.qimingvc.com/en/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zuzuche
+  slug: zuzuche
+  matched_by: domain
